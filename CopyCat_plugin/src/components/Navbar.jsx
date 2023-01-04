@@ -10,6 +10,7 @@ function Navbar() {
                     <img className="search" src={search} />
                     <span className="search-1">SEARCH</span>
                     <img className="frame-11" src={frame11} />
+                    <p>Made with CopyCat</p>
                 </div>
             </div>
         </navbar>
