@@ -1,0 +1,24 @@
+.text-close-btn {
+  text-align: center;
+  color: #fff;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: stretch;
+  font-family: Hind, Arial;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 26px;
+  display: flex;
+}
+
+.we-have-places-avail-1 {
+  letter-spacing: 1px;
+  margin-top: 2px;
+}
+
+.x-btn {
+  width: 28px;
+  height: 24px;
+  object-fit: cover;
+  margin-left: 243px;
+}

@@ -1,0 +1,14 @@
+.pop-up {
+  background-color: #1c1a1a;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  display: flex;
+}
+
+.text-close-btn-instance-1 {
+  height: 65%;
+  flex-basis: 98%;
+  margin-top: 1px;
+}
