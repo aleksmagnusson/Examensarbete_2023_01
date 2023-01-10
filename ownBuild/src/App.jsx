@@ -10,7 +10,6 @@ function App() {
 
   return (
     <div className="App">
-      <p>hej test</p>
       <Navbar />
       <LP />
       <Footer />
