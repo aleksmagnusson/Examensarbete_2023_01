@@ -32,7 +32,7 @@ function LP() {
                 </div>
             </container>
             <container className="container3">
-                <img src="PictureSection.png" height="400" width="610" />
+                <img src="https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1083&q=80" height="400" width="610" />
                 <box className="boxContainer2">
                     <h2>LATEST FROM CPB:</h2>
                     <h4>WE HAVE PLACES AVAILABLE RIGHT NOW FOR CLÈ DE PEAU BEAUTÈ's E-LEARNING.
