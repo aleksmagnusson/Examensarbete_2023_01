@@ -1,0 +1,48 @@
+.container1 {
+    width: 1441px;
+    height: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom right, rgb(255, 165, 180), rgb(252, 216, 149));
+}
+
+.container2 {
+    width: 1441px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-color:  #271D14;
+}
+.container3 {
+    width: 1441px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom left, #E9DFDA, #F5EDE8);
+}
+
+.learnMore1 {
+    color: #FFFF;
+    background-color: #080D26;
+    padding: 15px;
+    margin: 150px;
+}
+
+button {
+    background-color: #080D26;
+}
