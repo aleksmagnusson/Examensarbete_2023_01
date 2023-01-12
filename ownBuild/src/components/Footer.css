@@ -4,3 +4,55 @@
     top: 0;
     left: 0;
 }
+
+.Fcontainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0;
+    margin: 15px;
+    justify-content: center;
+}
+
+.divS1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+.divS2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+.divS3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+.socialIcons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    -webkit-text-fill-color: black;
+}
+
+h2, h4 {
+    color: black;
+    -webkit-text-fill-color: black;
+    justify-content: center;
+    align-items: center;
+  }

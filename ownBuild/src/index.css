@@ -39,6 +39,7 @@ h1 {
 
 h2, h4 {
   color: white;
+  -webkit-text-fill-color: #ffffff;
   justify-content: center;
   align-items: center;
 }
